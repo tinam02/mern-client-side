@@ -5,6 +5,8 @@ import BigSidebar from "../components/BigSidebar";
 import Navbar from "../components/Navbar";
 import SmallSidebar from "../components/SmallSidebar";
 import FormRowSelect from "./FormRowSelect";
+import SearchContainer from "./SearchContainer";
+import JobsContainer from "./JobsContainer";
 
 export {
   Logo,
@@ -14,4 +16,7 @@ export {
   Navbar,
   SmallSidebar,
   FormRowSelect,
+  SearchContainer,
+  JobsContainer,
+  
 };
